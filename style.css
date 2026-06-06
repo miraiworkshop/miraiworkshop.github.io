@@ -499,7 +499,7 @@ section {
   position: absolute;
   top: 0;
   bottom: 0;
-  left: 120px;
+  left: 155px;
   width: 2px;
   background: rgba(255, 255, 255, 0.07);
 }
@@ -512,7 +512,7 @@ section {
 }
 
 .timeline-time {
-  width: 120px;
+  width: 140px;
   text-align: right;
   font-family: var(--font-heading);
   font-weight: 600;
@@ -523,7 +523,7 @@ section {
 
 .timeline-dot {
   position: absolute;
-  left: 115px;
+  left: 150px;
   top: 10px;
   width: 12px;
   height: 12px;
